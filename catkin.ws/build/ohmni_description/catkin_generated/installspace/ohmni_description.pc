@@ -1,0 +1,8 @@
+prefix=/home/indi/ohmni_research/catkin.ws/install
+
+Name: ohmni_description
+Description: Description of ohmni_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

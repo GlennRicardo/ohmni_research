@@ -1,0 +1,8 @@
+prefix=/home/indi/ohmni_research/catkin.ws/devel
+
+Name: ohmni_teleop
+Description: Description of ohmni_teleop
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

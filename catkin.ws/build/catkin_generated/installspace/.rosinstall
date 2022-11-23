@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/indi/ohmni_research/catkin.ws/install/setup.sh

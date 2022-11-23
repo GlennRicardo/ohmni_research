@@ -1,0 +1,2 @@
+ohmni_description:ohmni_slam:ohmni_teleop:tb_gazebo_model/ros_ws/src/tb_sim/gazebo_environment:tb_gazebo_model/ros_ws/src/tb_sim/tb_description:tb_gazebo_model/ros_ws/src/tb_sim/tb_gazebo:tb_gazebo_model/ros_ws/src/tb_sim/tb_gazebo_plugins:tb_gazebo_model/ros_ws/src/tb_sim/tb_teleop
+-DCATKIN_DEVEL_PREFIX=/home/indi/ohmni_research/catkin.ws/devel -DCMAKE_INSTALL_PREFIX=/home/indi/ohmni_research/catkin.ws/install -G Unix Makefiles
