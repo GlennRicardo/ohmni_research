@@ -1,0 +1,12 @@
+<launch>
+  <arg name="multi_robot_name" default=""/>
+
+  <include file="$(find ohmni_description)/launch/includes/ohmni_description.launch.xml">
+   
+  </include>
+
+  <node pkg="robot_state_publisher" type="robot_state_publisher" name="robot_state_publisher">
+    <param name="publish_frequency" type="double" value="100.0" />
+    <param name="tf_prefix" value="$(arg multi_robot_name)"/>
+  </node>
+</launch>
